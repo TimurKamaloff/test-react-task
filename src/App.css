@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+#calendar {
+  width : auto;
+  height: 50px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+img {
+  width : 500px;
+  height: 300px;
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+  font-style: italic;
+  color: #61dafb;
+}
+
+a:visited {
+  color : white;
+  color: #61dafb;
+}
+
+a:hover{
+  color : gray
+}
+
+a:active{
+  color : greenyellow
+}
+
